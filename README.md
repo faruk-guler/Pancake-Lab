@@ -1,4 +1,4 @@
 # Homemade Cake
 - Cakes collected from neighbors
-<img src="https://t4.ftcdn.net/jpg/03/31/10/17/240_F_331101745_iJ3F7GUwZQKIeFCUCUtFZ51EWRAD0gjZ.jpg" alt="alt text" width="380" height="230">
+<img src="https://img.freepik.com/free-psd/johnnycake-isolated-transparent-background_191095-41930.jpg" alt="alt text" width="300" height="330">
 
